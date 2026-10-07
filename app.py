@@ -754,7 +754,5 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-Soạn
-Viết cho Nguyễn Minh Thư
 
 
